@@ -9,12 +9,12 @@
      padding-right: 10px;
  }
  
-.ul{
+.ull{
      list-style-type: none;
      display: flex;
      justify-content: space-between;
  }
-  .li{
+  .lii{
  padding: 0px 5px
  ;}
   .textcolor{
@@ -29,6 +29,11 @@
  
   .fonttype{
      font-family: 'Fascinate Inline', cursive;
+     
+ }
+
+ .d{
+    color: #0000ff;
  }
  
  .title{
@@ -42,8 +47,10 @@
      justify-content: center;
      margin-top: 80px;
  }
- 
-  .creator{
+ .aon{
+    color: #0000ff;
+ }
+.creator{
      display: flex;
      justify-content: center;
      margin-top: 80px;

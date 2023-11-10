@@ -10,13 +10,13 @@
   padding-right: 10px;
 }
 
-.ul {
+.ull {
   justify-content: space-between;
   list-style-type: none;
   display: flex;
 }
 
-.li {
+.lii {
   padding: 0 5px;
 }
 
@@ -34,6 +34,10 @@
   font-family: Fascinate Inline, cursive;
 }
 
+.d {
+  color: #00f;
+}
+
 .title {
   margin-top: 40px;
 }
@@ -44,6 +48,10 @@
   height: 316px;
   margin-top: 80px;
   display: flex;
+}
+
+.aon {
+  color: #00f;
 }
 
 .creator {

@@ -27326,6 +27326,8 @@ parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
+var _picJpeg = require("./assets/pic.jpeg");
+var _picJpegDefault = parcelHelpers.interopDefault(_picJpeg);
 function App() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         children: [
@@ -27341,27 +27343,29 @@ function App() {
                                 children: [
                                     "To",
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                        style: "color: #0000ff;",
+                                        className: "d",
                                         children: "D"
                                     }, void 0, false, {
                                         fileName: "src/App.js",
-                                        lineNumber: 8,
-                                        columnNumber: 44
+                                        lineNumber: 9,
+                                        columnNumber: 48
                                     }, this),
                                     "o"
                                 ]
                             }, void 0, true, {
                                 fileName: "src/App.js",
-                                lineNumber: 8,
-                                columnNumber: 17
+                                lineNumber: 9,
+                                columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
+                                className: "ull",
                                 children: [
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
+                                        className: "lii",
                                         children: "Home"
                                     }, void 0, false, {
                                         fileName: "src/App.js",
-                                        lineNumber: 10,
+                                        lineNumber: 11,
                                         columnNumber: 21
                                     }, this),
                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
@@ -27369,35 +27373,35 @@ function App() {
                                         children: "About"
                                     }, void 0, false, {
                                         fileName: "src/App.js",
-                                        lineNumber: 11,
+                                        lineNumber: 12,
                                         columnNumber: 21
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "src/App.js",
-                                lineNumber: 9,
-                                columnNumber: 17
+                                lineNumber: 10,
+                                columnNumber: 21
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/App.js",
-                        lineNumber: 7,
-                        columnNumber: 13
+                        lineNumber: 8,
+                        columnNumber: 21
                     }, this)
                 }, void 0, false, {
                     fileName: "src/App.js",
-                    lineNumber: 6,
-                    columnNumber: 9
+                    lineNumber: 7,
+                    columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "src/App.js",
-                lineNumber: 5,
-                columnNumber: 12
+                lineNumber: 6,
+                columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                 fileName: "src/App.js",
-                lineNumber: 16,
-                columnNumber: 9
+                lineNumber: 17,
+                columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "container",
@@ -27410,26 +27414,26 @@ function App() {
                                     children: "Welcome."
                                 }, void 0, false, {
                                     fileName: "src/App.js",
-                                    lineNumber: 20,
+                                    lineNumber: 21,
                                     columnNumber: 17
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                                     children: "This is my first challenge with Html and CSS"
                                 }, void 0, false, {
                                     fileName: "src/App.js",
-                                    lineNumber: 21,
+                                    lineNumber: 22,
                                     columnNumber: 17
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "src/App.js",
-                            lineNumber: 19,
-                            columnNumber: 13
+                            lineNumber: 20,
+                            columnNumber: 17
                         }, this)
                     }, void 0, false, {
                         fileName: "src/App.js",
-                        lineNumber: 18,
-                        columnNumber: 9
+                        lineNumber: 19,
+                        columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         className: "mainimg",
@@ -27437,13 +27441,13 @@ function App() {
                             src: "./assets/pic.jpeg"
                         }, void 0, false, {
                             fileName: "src/App.js",
-                            lineNumber: 25,
-                            columnNumber: 13
+                            lineNumber: 26,
+                            columnNumber: 21
                         }, this)
                     }, void 0, false, {
                         fileName: "src/App.js",
-                        lineNumber: 24,
-                        columnNumber: 9
+                        lineNumber: 25,
+                        columnNumber: 17
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         className: "creator",
@@ -27451,315 +27455,41 @@ function App() {
                             children: [
                                 "this app created by ",
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                    style: "color: #0000ff;",
+                                    className: "aon",
                                     children: "Aon2023"
                                 }, void 0, false, {
                                     fileName: "src/App.js",
-                                    lineNumber: 27,
-                                    columnNumber: 57
+                                    lineNumber: 28,
+                                    columnNumber: 65
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "src/App.js",
-                            lineNumber: 27,
-                            columnNumber: 34
+                            lineNumber: 28,
+                            columnNumber: 42
                         }, this)
                     }, void 0, false, {
                         fileName: "src/App.js",
-                        lineNumber: 27,
-                        columnNumber: 9
+                        lineNumber: 28,
+                        columnNumber: 17
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/App.js",
-                lineNumber: 17,
-                columnNumber: 5
+                lineNumber: 18,
+                columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "header",
-                children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "container",
-                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                            className: "content",
-                            children: [
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-                                    className: "fonttype",
-                                    children: [
-                                        "To",
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                            children: "D"
-                                        }, void 0, false, {
-                                            fileName: "src/App.js",
-                                            lineNumber: 32,
-                                            columnNumber: 44
-                                        }, this),
-                                        "o"
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "src/App.js",
-                                    lineNumber: 32,
-                                    columnNumber: 17
-                                }, this),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
-                                    children: [
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                                            className: "textcolor",
-                                            children: "Home"
-                                        }, void 0, false, {
-                                            fileName: "src/App.js",
-                                            lineNumber: 34,
-                                            columnNumber: 21
-                                        }, this),
-                                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("li", {
-                                            children: "About"
-                                        }, void 0, false, {
-                                            fileName: "src/App.js",
-                                            lineNumber: 35,
-                                            columnNumber: 21
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "src/App.js",
-                                    lineNumber: 33,
-                                    columnNumber: 17
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "src/App.js",
-                            lineNumber: 31,
-                            columnNumber: 13
-                        }, this)
-                    }, void 0, false, {
-                        fileName: "src/App.js",
-                        lineNumber: 30,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
-                        fileName: "src/App.js",
-                        lineNumber: 39,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
+                children: "second section"
+            }, void 0, false, {
                 fileName: "src/App.js",
-                lineNumber: 29,
-                columnNumber: 5
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("main", {
-                className: "container",
-                children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "title",
-                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                            children: [
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-                                    children: "Simple todo app"
-                                }, void 0, false, {
-                                    fileName: "src/App.js",
-                                    lineNumber: 44,
-                                    columnNumber: 17
-                                }, this),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                    children: "This todo app for test design."
-                                }, void 0, false, {
-                                    fileName: "src/App.js",
-                                    lineNumber: 45,
-                                    columnNumber: 17
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "src/App.js",
-                            lineNumber: 43,
-                            columnNumber: 13
-                        }, this)
-                    }, void 0, false, {
-                        fileName: "src/App.js",
-                        lineNumber: 42,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "enter",
-                        children: [
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("input", {
-                                className: "inputbtn",
-                                type: "text",
-                                placeholder: "Write Text Here ..."
-                            }, void 0, false, {
-                                fileName: "src/App.js",
-                                lineNumber: 49,
-                                columnNumber: 13
-                            }, this),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                                className: "btn",
-                                children: "+ Add New"
-                            }, void 0, false, {
-                                fileName: "src/App.js",
-                                lineNumber: 50,
-                                columnNumber: 13
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/App.js",
-                        lineNumber: 48,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
-                        fileName: "src/App.js",
-                        lineNumber: 52,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "task",
-                        children: [
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "tasktext",
-                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
-                                    children: "Hello this is my first Todo"
-                                }, void 0, false, {
-                                    fileName: "src/App.js",
-                                    lineNumber: 55,
-                                    columnNumber: 21
-                                }, this)
-                            }, void 0, false, {
-                                fileName: "src/App.js",
-                                lineNumber: 54,
-                                columnNumber: 17
-                            }, this),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "taskbtn",
-                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                                    className: "deletbtn",
-                                    children: "x"
-                                }, void 0, false, {
-                                    fileName: "src/App.js",
-                                    lineNumber: 58,
-                                    columnNumber: 21
-                                }, this)
-                            }, void 0, false, {
-                                fileName: "src/App.js",
-                                lineNumber: 57,
-                                columnNumber: 17
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/App.js",
-                        lineNumber: 53,
-                        columnNumber: 13
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "task",
-                        children: [
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "tasktext",
-                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
-                                    children: "Hello this is my second Todo"
-                                }, void 0, false, {
-                                    fileName: "src/App.js",
-                                    lineNumber: 63,
-                                    columnNumber: 21
-                                }, this)
-                            }, void 0, false, {
-                                fileName: "src/App.js",
-                                lineNumber: 62,
-                                columnNumber: 17
-                            }, this),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "taskbtn",
-                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                                    className: "deletbtn",
-                                    children: "x"
-                                }, void 0, false, {
-                                    fileName: "src/App.js",
-                                    lineNumber: 66,
-                                    columnNumber: 21
-                                }, this)
-                            }, void 0, false, {
-                                fileName: "src/App.js",
-                                lineNumber: 65,
-                                columnNumber: 17
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/App.js",
-                        lineNumber: 61,
-                        columnNumber: 13
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "task",
-                        children: [
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "tasktext",
-                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                                    children: "Hello this is my 3th Todo"
-                                }, void 0, false, {
-                                    fileName: "src/App.js",
-                                    lineNumber: 71,
-                                    columnNumber: 21
-                                }, this)
-                            }, void 0, false, {
-                                fileName: "src/App.js",
-                                lineNumber: 70,
-                                columnNumber: 17
-                            }, this),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                className: "taskbtn",
-                                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                                    className: "deletbtn",
-                                    children: "x"
-                                }, void 0, false, {
-                                    fileName: "src/App.js",
-                                    lineNumber: 74,
-                                    columnNumber: 21
-                                }, this)
-                            }, void 0, false, {
-                                fileName: "src/App.js",
-                                lineNumber: 73,
-                                columnNumber: 17
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/App.js",
-                        lineNumber: 69,
-                        columnNumber: 13
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
-                            children: "total list: 3"
-                        }, void 0, false, {
-                            fileName: "src/App.js",
-                            lineNumber: 77,
-                            columnNumber: 14
-                        }, this)
-                    }, void 0, false, {
-                        fileName: "src/App.js",
-                        lineNumber: 77,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
-                            className: "btntwo",
-                            children: "+ Add Task"
-                        }, void 0, false, {
-                            fileName: "src/App.js",
-                            lineNumber: 78,
-                            columnNumber: 14
-                        }, this)
-                    }, void 0, false, {
-                        fileName: "src/App.js",
-                        lineNumber: 78,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "src/App.js",
-                lineNumber: 41,
-                columnNumber: 5
+                lineNumber: 30,
+                columnNumber: 12
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/App.js",
-        lineNumber: 4,
+        lineNumber: 5,
         columnNumber: 9
     }, this);
 }
@@ -27773,6 +27503,44 @@ $RefreshReg$(_c, "App");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}]},["3smKr","1xC6H","bB7Pu"], "bB7Pu", "parcelRequiref77b")
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./assets/pic.jpeg":"44OtC"}],"44OtC":[function(require,module,exports) {
+module.exports = require("619b0090fd00a489").getBundleURL("UckoE") + "pic.2bcaa101.jpeg" + "?" + Date.now();
+
+},{"619b0090fd00a489":"lgJ39"}],"lgJ39":[function(require,module,exports) {
+"use strict";
+var bundleURL = {};
+function getBundleURLCached(id) {
+    var value = bundleURL[id];
+    if (!value) {
+        value = getBundleURL();
+        bundleURL[id] = value;
+    }
+    return value;
+}
+function getBundleURL() {
+    try {
+        throw new Error();
+    } catch (err) {
+        var matches = ("" + err.stack).match(/(https?|file|ftp|(chrome|moz|safari-web)-extension):\/\/[^)\n]+/g);
+        if (matches) // The first two stack frames will be this function and getBundleURLCached.
+        // Use the 3rd one, which will be a runtime in the original bundle.
+        return getBaseURL(matches[2]);
+    }
+    return "/";
+}
+function getBaseURL(url) {
+    return ("" + url).replace(/^((?:https?|file|ftp|(chrome|moz|safari-web)-extension):\/\/.+)\/[^/]+$/, "$1") + "/";
+}
+// TODO: Replace uses with `new URL(url).origin` when ie11 is no longer supported.
+function getOrigin(url) {
+    var matches = ("" + url).match(/(https?|file|ftp|(chrome|moz|safari-web)-extension):\/\/[^/]+/);
+    if (!matches) throw new Error("Origin not found");
+    return matches[0];
+}
+exports.getBundleURL = getBundleURLCached;
+exports.getBaseURL = getBaseURL;
+exports.getOrigin = getOrigin;
+
+},{}]},["3smKr","1xC6H","bB7Pu"], "bB7Pu", "parcelRequiref77b")
 
 //# sourceMappingURL=index.3d214d75.js.map
