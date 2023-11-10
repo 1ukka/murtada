@@ -9,29 +9,25 @@
      padding-right: 10px;
  }
  
- header{
-     position: sticky;
-     background: #f6f6f6;    
- }
- header ul{
+.ul{
      list-style-type: none;
      display: flex;
      justify-content: space-between;
  }
- header ul li{
+  .li{
  padding: 0px 5px
  ;}
- header .textcolor{
+  .textcolor{
      color: #0000ff;}
  
  
- header .content{
+  .content{
      display: flex;
      justify-content: space-between;
      align-items: center;
  }
  
- header .fonttype{
+  .fonttype{
      font-family: 'Fascinate Inline', cursive;
  }
  
@@ -101,7 +97,7 @@
      left: 20px;
      right: 20px;
  }
-  main .deletbtn{
+ .deletbtn{
      font-weight: 100;
      color: red;
      font-size: 20px;
